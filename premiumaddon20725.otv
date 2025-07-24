@@ -1942,12 +1942,14 @@ https://tunebox.space/‍tv3.ts
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 ch-number="104" group-title="MALAYSIA" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramalogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ria.png" tvg-id="104.astro",104 RIA
+https://smart.pendy.dpdns.org/Smart.php?id=Ria-0
 https://tunebox.space/‍ria.mpd
 
 #EXTINF:-1 tvg-id="105.astro" ch-number="105" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/prima.png" group-title="MALAYSIA",105 PRIMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://smart.pendy.dpdns.org/Smart.php?id=AAprima1
 https://tunebox.space/‍prima.mpd
 
 
@@ -1972,6 +1974,7 @@ https://tunebox.space/‍fitrah.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://smart.pendy.dpdns.org/Smart.php?id=AAcitra
 https://tunebox.space/‍citra.mpd
 
 
@@ -2268,8 +2271,8 @@ https://tunebox.space/‍sunmusic.mpd
 
 #EXTINF:-1 tvg-id="214.astro" ch-number="214" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/adithya.png",214 ADITHYA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XrN2KxpGMaC5jiXiPO8Bkw", "kid":"hZ9bIFTEBz6PDaRj0gi5EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 17223-43-223532-432-4121-32-43-2-1212-3124-12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://tunebox.space/‍adithya.mpd
 
 
@@ -2359,6 +2362,7 @@ https://tunebox.space/‍tvbclassic.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://php.jdshipin.com/smt.php?id=AEC
 https://tunebox.space/‍aec.mpd
 
 #EXTINF:-1 ch-number="308" tvg-id="308.astro" ch-number=308" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/qj.png",308 QUAN JIA
@@ -2762,8 +2766,8 @@ https://tunebox.space/‍junior.m3u
 
 #EXTINF:-1 tvg-id="611.astro" ch-number="611" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ceria.png", 611 CERIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"AAAALHBzc2gAAAAA7e+", "kid":"LqXnWSs6jyCfc1R0h7QAAAAwiBDUwNTdI49yVmwY" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
 https://tunebox.space/‍ceria.mpd
 
 
@@ -3211,8 +3215,8 @@ https://tunebox.space/‍lawaksentral.mpd
 
 #EXTINF:-1 tvg-id="214.astro" ch-number="214" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/adithya.png",ADITHYA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XrN2KxpGMaC5jiXiPO8Bkw", "kid":"hZ9bIFTEBz6PDaRj0gi5EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 17223-43-223532-432-4121-32-43-2-1212-3124-12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://tunebox.space/‍adithya.mpd
 
 
@@ -5777,7 +5781,7 @@ https://tunebox.space/‍junior.m3u
 #EXTINF:-1 tvg-id="611.astro" ch-number="611" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ceria.png",CERIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
 https://tunebox.space/‍ceria.mpd
 
 
